@@ -1,0 +1,28 @@
+.top{
+    text-align: center;
+  background-color: black;
+  padding-bottom: 20%;
+}
+.bulb-img{
+    width: 05vw;
+}
+.cat-img{
+    width: 20vw;
+}
+.switch{
+    background-color: aliceblue;
+    border-radius: 5px;
+    padding: 10px;
+    width: 15vw;
+    height: 20vh;
+    position: absolute;
+    top: 80%;
+    left: 43%;
+    
+}
+.on-btn{
+    border-radius: 10px;
+}
+.off-btn{
+    border-radius: 10px;
+}

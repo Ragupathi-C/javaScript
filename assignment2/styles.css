@@ -1,0 +1,23 @@
+/* #spring{
+    height: 110vh;
+    width: 100vw;
+} */
+/* .btns_div{
+    margin-left: 25vw;
+} */
+.season-image {
+    width: 100%;
+    height: 85vh;
+}
+.button {
+    color: white;
+    background-color: #cbd2d9;
+    font-family: "Roboto";
+    font-size: 14px;
+    width: 80px;
+    height: 32px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 10px;
+}

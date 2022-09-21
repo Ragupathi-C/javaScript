@@ -1,0 +1,39 @@
+.left{
+  
+    height: 60vh;
+    width: 5vw;
+    text-align: center;
+    border: 1px solid black;
+}
+#btn1{
+    border-radius: 75px;
+    padding: 40px;
+    position: absolute;
+    top: 5vh;
+    right: 20vh;
+}
+#btn2{
+    border-radius: 85px;
+    padding: 40px;
+    position: absolute;
+    top: 20vh;
+    right: 20vh;
+}
+#btn3{
+    border-radius: 85px;
+    padding: 40px;
+    position: absolute;
+    top: 35vh;
+    right: 20vh;
+}
+
+.post{
+   
+    height: 60vh;
+    width: 10vw;
+    position: absolute;
+    top: 59vh;
+    left: 6vw;
+
+}
+

@@ -1,0 +1,40 @@
+.btn1,.btn2,.btn3{
+    padding: 30px;
+    background-color: grey;
+    margin: 10% 0 10% 0;
+}
+body{
+    text-align: center;
+}
+h1{
+    margin-top: 55px;
+}
+.outer{
+    background-color: aqua;
+    width: 30%;
+    height: 50vh;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    display: flex;
+    border-radius: 7px;
+}
+.panel{
+   width: 20%;
+   height: 43vh;
+   margin:5% 0 0 15%;
+   text-align: center;
+   border-radius: 25px;
+   background-color: black;
+}
+.btns{
+    width: 15%;
+    margin:15% 0 0 15%;
+}
+.operator{
+    background-color: grey;
+    margin:15% 0 0 15%;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+}
