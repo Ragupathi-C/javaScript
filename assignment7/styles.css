@@ -1,0 +1,10 @@
+.strike-through {
+     text-decoration: line-through;
+}
+
+#checkBoxWithLabelContainer{
+    margin: 10% auto 30% 20%;
+    width: 10%;
+    
+
+}
